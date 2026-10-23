@@ -80,17 +80,16 @@ The screenshot filenames above are placeholders. Create the `screenshots` folder
 
 ### 1. Application Screen
 
-Capture the application screen showing the sales order input field and the sales order item table.
 
-![Application Screen](screenshots/sales-order-item-screen.png)
+
+<img width="1862" height="947" alt="image" src="https://github.com/user-attachments/assets/0de1c96d-bdc6-43cc-84a1-bb80c4a4c30b" />
+
 
 ### 2. Sales Order Item Display
 
-Capture the application after entering a valid sales order number, showing the item-level fields such as document number, item number, and material number.
+<img width="1870" height="941" alt="image" src="https://github.com/user-attachments/assets/f1bade8f-fe84-4436-bdae-a5909b20bbd8" />
 
-![Sales Order Item Output](screenshots/sales-order-item-output.png)
 
-> **Note:** Actual output screenshots were not included with the supplied source files. Replace these placeholders with genuine screenshots from your SAP system before publishing the repository.
 
 ## How to Set Up and Test
 
